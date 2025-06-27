@@ -158,21 +158,3 @@ make clean
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## 📄 License
-
-[Add your license information here]
-
-## 🆘 Troubleshooting
-
-### Common Issues
-
-1. **Build Failures**: Ensure Rust and Go are properly installed
-2. **Port Conflicts**: Change port in `main.go` if 8080 is occupied
-3. **Library Not Found**: Run `make clean && make all` to rebuild
-
-### Getting Help
-
-- Check build logs for specific error messages
-- Ensure all prerequisites are installed
-- Verify file permissions for build artifacts
